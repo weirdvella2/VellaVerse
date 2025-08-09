@@ -1,4 +1,4 @@
-# 🌌 VellaVerse — Your Academic Universe
+# 🌌 VellaVerse — Your Academic Universe -
 
 Welcome to **VellaVerse**, a free and student-friendly academic companion designed for college classmates to access all things study-related in one cosmic space. 🚀
 
@@ -6,7 +6,7 @@ Whether you're cramming for exams, tracking your syllabus, or just trying to sta
 
 ---
 
-## 📚 What is VellaVerse?
+## 📚 What is VellaVerse?  Vibe Coded as Experimental Project !!
 
 **VellaVerse** is a web-based study app built with love (and code) for students by a student. It centralizes academic resources, class updates, syllabus tracking, and productivity tools — all tailored for your college crew.
 
